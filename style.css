@@ -15,3 +15,13 @@ html {
   font-family: Helvetica, Arial;
   color: var(--font);
 }
+
+body {
+  background-color: #262c3b;
+}
+
+.mega-logo {
+  position: absolute;
+  width: 50vw;
+  margin: auto;
+}
